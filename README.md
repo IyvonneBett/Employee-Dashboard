@@ -7,7 +7,7 @@ This application is provided “AS IS” with no express or implied warranty for
 ## <a name="setup"></a> Setup
 ### Prerequisites:
 - WebLogic 12c domain or Java Cloud Service instance available
-- A **Java EE IDE**. In the instructions, we use **[Netbeans 8.1](https://netbeans.org/downloads/)**.
+- A **Java EE IDE**. In the instructions, we use **[Netbeans 16](https://netbeans.org/downloads/)**.
 - An Identity Store to host users and groups. In the instructions, we use the default identity store embedded with WebLogic Server.
 
 ### Instructions:
